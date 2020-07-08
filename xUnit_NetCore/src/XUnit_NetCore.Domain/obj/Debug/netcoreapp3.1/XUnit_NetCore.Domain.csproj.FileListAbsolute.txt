@@ -1,0 +1,9 @@
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\bin\Debug\netcoreapp3.1\XUnit_NetCore.Domain.deps.json
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\bin\Debug\netcoreapp3.1\XUnit_NetCore.Domain.dll
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\bin\Debug\netcoreapp3.1\XUnit_NetCore.Domain.pdb
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\obj\Debug\netcoreapp3.1\XUnit_NetCore.Domain.csprojAssemblyReference.cache
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\obj\Debug\netcoreapp3.1\XUnit_NetCore.Domain.csproj.CoreCompileInputs.cache
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\obj\Debug\netcoreapp3.1\XUnit_NetCore.Domain.AssemblyInfoInputs.cache
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\obj\Debug\netcoreapp3.1\XUnit_NetCore.Domain.AssemblyInfo.cs
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\obj\Debug\netcoreapp3.1\XUnit_NetCore.Domain.dll
+C:\Development\POC\C#\XUnit_NetCore\src\XUnit_NetCore.Domain\obj\Debug\netcoreapp3.1\XUnit_NetCore.Domain.pdb
